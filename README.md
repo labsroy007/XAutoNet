@@ -9,4 +9,8 @@ The main contribution of this paper are listed below-
 For a quick walk through of our project we are providing a graphical abstract that will help you understand each process.</br>
  ![Graphical Abstract1](https://user-images.githubusercontent.com/63040034/224906743-8c0dab11-1521-4a23-b89f-12cbdef5e922.png)
 </br>
-The repository consists of files which are used for data analysis, data cleaning, dimensional reduction using Autoencoder and explainability files (follow the commit message of each file).
+The repository consists of files which are used for data analysis, data cleaning, dimensional reduction using Autoencoder and explainability files (follow the commit message of each .ipynb file).
+* File 1, File 6 and File 7 are used for EDA and data cleaning.
+* File 2 is the XAutoNet model stored in .h5 extension.
+* File 3, File 4 and File 5 are used for dimensional reduction using autoencoder, interpretaion of the models along with abalation and comparative study.
+</br>
