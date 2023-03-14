@@ -9,4 +9,4 @@ The main contribution of this paper are listed below-
 For a quick walk through of our project we are providing a graphical abstract that will help you understand each process.</br>
  ![Graphical Abstract1](https://user-images.githubusercontent.com/63040034/224906743-8c0dab11-1521-4a23-b89f-12cbdef5e922.png)
 </br>
-The repository consists of files which are used for data analysis, data cleaning, dimensional reduction using Autoencoder and explainability files (follow the commit message for each file).
+The repository consists of files which are used for data analysis, data cleaning, dimensional reduction using Autoencoder and explainability files (follow the commit message of each file).
