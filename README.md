@@ -5,6 +5,5 @@ The main contribution of this paper are listed below-
 *	Considering the complexity of EMR data of ICU patients, a novel CNN-based autoencoder is introduced for extracting useful information, which is appropriately utilized by the model, helping it classify better.
 * Implementation of proper and detailed pre-processing of data to retain important information as it belongs to critical care patients.
 * Use of GradCAM for explaining the feature extraction process by Autoencoder and SHAP for digging out the hidden reasons behind the model's prediction.
-</br>
-For a quick walk through of our project we are providing a graphical abstract that will help you understand each process.</br>
+</br>For a quick walk through of our project we are providing a graphical abstract that will help you understand each process.</br>
  ![Graphical Abstract1](https://user-images.githubusercontent.com/63040034/224906743-8c0dab11-1521-4a23-b89f-12cbdef5e922.png)
