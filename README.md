@@ -1,4 +1,8 @@
 # XAutoNet
+An Explainable AI based Clinical Assistance Model for Identifying Patients with the Onset of Sepsis (https://ieeexplore.ieee.org/document/10229371).
+
+Cite paper : S. Chakraborty, K. Kumar, B. P. Reddy, T. Meena and S. Roy, "An Explainable AI based Clinical Assistance Model for Identifying Patients with the Onset of Sepsis," 2023 IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI), Bellevue, WA, USA, 2023, pp. 297-302, doi: 10.1109/IRI58017.2023.00059.
+
 The purpose of this work is to predict onset of sepsis in ICU patients 6 hours before using their physiological data and to provide diagnostic maps to clinicians or doctors for assisting them in making decisions. <br/>
 The main contribution of this paper are listed below-
 *	Developing a highly accurate predictive model to identify patients with sepsis at an early stage by taking a minimal number of features as input.
